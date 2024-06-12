@@ -354,3 +354,6 @@ renderProducts();
 // const arr = [13,12,14,15]
 // const oddNums = arr.filter((data,index) => data >12)
 // console.log(oddNums);
+
+
+const arr = []
