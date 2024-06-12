@@ -337,15 +337,20 @@ function renderProducts() {
 
 renderProducts();
 
-const hello = () =>{
-    console.log("Heyy!");
-}
-hello()
+// const hello = () =>{
+//     console.log("Heyy!");
+// }
+// hello()
 
-const add = (a,...b) =>console.log(b);
+// const add = (a,...b) =>console.log(b);
 
-console.log(add(6,5,2))
+// console.log(add(6,5,2))
 
 
-const arr = [1,2,3,4,5,6,7]
+// const arr = [14,23,31,4,5,6,12]
+// const evenNums = arr.filter((data,index) => data % 2 ==0)
+// console.log("evenNums",evenNums);
 
+// const arr = [13,12,14,15]
+// const oddNums = arr.filter((data,index) => data >12)
+// console.log(oddNums);
