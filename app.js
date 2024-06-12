@@ -336,3 +336,16 @@ function renderProducts() {
 }
 
 renderProducts();
+
+const hello = () =>{
+    console.log("Heyy!");
+}
+hello()
+
+const add = (a,...b) =>console.log(b);
+
+console.log(add(6,5,2))
+
+
+const arr = [1,2,3,4,5,6,7]
+
