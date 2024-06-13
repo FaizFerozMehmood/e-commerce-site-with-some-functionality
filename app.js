@@ -356,4 +356,5 @@ renderProducts();
 // console.log(oddNums);
 
 
-const arr = []
+// const arr = ["faiz","umair","Asim bajwa","Talha sath"]
+// const filteredArray = arr.filter((data,index)=>)
