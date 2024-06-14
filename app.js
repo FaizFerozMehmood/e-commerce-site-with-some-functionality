@@ -363,6 +363,13 @@ renderProducts();
   let users = [
     {name: "faiz",age : 24,occupation: 'gardener'},
     { name: 'John', age: 25, occupation: 'teacher'},
-    {name :"umair",age :26,occupation :"programmer"}
+    {name :"umair",age :5,occupation :"programmer"},
+    {name :"umair",age :38,occupation :"programmer"},
+    {name :"umair",age :29,occupation :"programmer"},
+    {name :"umair",age :20,occupation :"programmer"},
+
 
   ]
+  let myArray = users.filter((data)=>{
+    return data.age >30 && data.occupation ==="programmer"})
+  console.log("my array",myArray);
