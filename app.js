@@ -358,3 +358,11 @@ renderProducts();
 
 // const arr = ["faiz","umair","Asim bajwa","Talha sath"]
 // const filteredArray = arr.filter((data,index)=>)
+
+
+  let users = [
+    {name: "faiz",age : 24,occupation: 'gardener'},
+    { name: 'John', age: 25, occupation: 'teacher'},
+    {name :"umair",age :26,occupation :"programmer"}
+
+  ]
